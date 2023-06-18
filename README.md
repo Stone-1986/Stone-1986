@@ -1,5 +1,16 @@
 ### Hi there, I'm Jonathan F! 👋
 
+```js
+const thai = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Java],
+  tools: [Spring Boot],
+  architecture: ["microservices"],
+  challenge: "I am doing the AceleraTi challenge focused java - Spring Boot"
+}
+```
+
+
 <!--
 **Stone-1986/Stone-1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
