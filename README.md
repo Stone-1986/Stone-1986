@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jonathan F! 👋
 
 <!--
 **Stone-1986/Stone-1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
